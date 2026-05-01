@@ -1,0 +1,13 @@
+tipo:corriente:10:300.0
+tipo:Diesel:10:20.0
+tipo:especial:5:20.0
+tipo:queroseno:1:10000.0
+surtidor:Andres:corriente:0.0:Diesel:0.0:especial:0.0:queroseno:0.0
+surtidor:diego:corriente:0.0:Diesel:0.0:especial:0.0:queroseno:0.0
+surtidor:Juan:corriente:0.0:Diesel:0.0:especial:0.0:queroseno:0.0
+surtidor:tomas:corriente:0.0:Diesel:0.0:especial:0.0:queroseno:0.0
+empleado:Andres:0
+empleado:tomas:0
+empleado:Leo:0
+empleado:diego:0
+empleado:Juan:0
